@@ -14,7 +14,7 @@ class MyNumbers:
         else:
             raise StopIteration
         
-nums = MyNumbers(100)
+nums = MyNumbers(10)
 
 for num in nums:
     print(num)
